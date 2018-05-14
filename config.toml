@@ -1,0 +1,31 @@
+baseURL = "http://emmgro.github.io/"
+languageCode = "en-us"
+title = "Emmanuelle Guerrero"
+layoutdir           = "layouts"
+publishdir          = "public"
+theme = "cocoa"
+#disqusshortname = "emmgr"
+
+#[[menu.main]]
+#name                   = "Blog"
+#weight                 = -120
+#identifier             = "blog"
+#url                    = "/blog/"
+
+[[menu.main]]
+name                   = "About"
+weight                 = -110
+identifier             = "about"
+url                    = "/about/"
+
+[params]
+author = "Emmanuelle Guerrero"
+description = "Here is my resume/portfolio"
+email = "emmaguerreros@gmail.com"
+github = "//github.com/emmgro"
+msn = "//m.me/emmgro"
+instagram = "//instagram.com/emmgros/"
+extracssfiles          = [ "/css/override.css" ]       # In your `static` directory, add/remove files as necessary.
+faviconfile = "favicon.svg"
+selfintro = "Developing Web Developer"
+avatar = "img/profile.jpg"
