@@ -26,6 +26,6 @@ github = "//github.com/emmgro"
 msn = "//m.me/emmgro"
 instagram = "//instagram.com/emmgros/"
 extracssfiles          = [ "/css/override.css" ]       # In your `static` directory, add/remove files as necessary.
-faviconfile = "favicon.svg"
+faviconfile = "https://s.gravatar.com/avatar/bc19a431cf19d6c3a6b609b3f22ce05a?s=80"
 selfintro = "Developing Web Developer"
-avatar = "img/profile.jpg"
+gravatar = "bc19a431cf19d6c3a6b609b3f22ce05a?s=80"
