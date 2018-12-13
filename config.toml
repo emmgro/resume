@@ -18,14 +18,21 @@ weight                 = -110
 identifier             = "about"
 url                    = "/about/"
 
+[[menu.main]]
+name                   = "Resume"
+weight                 = -110
+identifier             = "resume"
+hrefTargetBlank        = true
+url                    = "/about/resume.pdf"
+
 [params]
 author = "Emmanuelle Guerrero"
-description = "Here is my resume/portfolio"
+description = "Resume / Portfolio website for Emmanuelle Alejandro Guerrero Santana"
 email = "emmaguerreros@gmail.com"
 github = "//github.com/emmgro"
 msn = "//m.me/emmgro"
 instagram = "//instagram.com/emmgros/"
 extracssfiles          = [ "/css/override.css" ]       # In your `static` directory, add/remove files as necessary.
 faviconfile = "https://s.gravatar.com/avatar/bc19a431cf19d6c3a6b609b3f22ce05a?s=80"
-selfintro = "Developing Web Developer"
+selfintro = "Developing Web Developer / Designer"
 gravatar = "bc19a431cf19d6c3a6b609b3f22ce05a?s=80"
