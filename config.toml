@@ -23,7 +23,7 @@ name                   = "Resume"
 weight                 = -110
 identifier             = "resume"
 hrefTargetBlank        = true
-url                    = "/about/resume.pdf"
+url                    = "https://www.dropbox.com/s/c82xnw731a1s2iw/resume.pdf?dl=0"
 
 [params]
 author = "Emmanuelle Guerrero"
