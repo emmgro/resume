@@ -13,17 +13,23 @@ theme = "cocoa"
 #url                    = "/blog/"
 
 [[menu.main]]
+name                   = "Resume"
+weight                 = -120
+identifier             = "resume"
+hrefTargetBlank        = true
+url                    = "https://www.dropbox.com/s/c82xnw731a1s2iw/resume.pdf?dl=0"
+
+[[menu.main]]
 name                   = "About"
-weight                 = -110
+weight                 = -120
 identifier             = "about"
 url                    = "/about/"
 
 [[menu.main]]
-name                   = "Resume"
-weight                 = -110
-identifier             = "resume"
-hrefTargetBlank        = true
-url                    = "https://www.dropbox.com/s/c82xnw731a1s2iw/resume.pdf?dl=0"
+name                   = "Portfolio"
+weight                 = -120
+identifier             = "portfolio"
+url                    = "/portfolio/"
 
 [params]
 author = "Emmanuelle Guerrero"
