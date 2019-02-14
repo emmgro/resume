@@ -20,7 +20,7 @@ title = "Portfolio"
 - [Expo Innovación acuícola y pesquera](http://expoinnovacionayp.com/)
 
 ### Tutorial Projects.-
-- This website also @[https://eager-aryabhata.netlify.com](https://eager-aryabhata.netlify.com) with [Netlify](https://www.netlify.com/).
+- This website too @[https://eager-aryabhata.netlify.com](https://eager-aryabhata.netlify.com) with [Netlify](https://www.netlify.com/).
 - [Djangogirls Blog](http://djangogirls.org) @[emmgro.pythonanywhere.com/](http://emmgro.pythonanywhere.com/) (Basic blog with User Management & comments).
 - [Tasty Licks](https://angry-stallman.netlify.com) (Hugo Framework JAMstack, using [Netlify](https://www.netlify.com/)).
 
