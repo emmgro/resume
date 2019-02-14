@@ -1,5 +1,6 @@
 baseURL = "http://emmgro.github.io/"
 languageCode = "en-us"
+author = "Emmanuelle Guerrero"
 title = "Emmanuelle Guerrero"
 layoutdir           = "layouts"
 publishdir          = "public"
@@ -33,12 +34,13 @@ url                    = "/portfolio/"
 
 [params]
 author = "Emmanuelle Guerrero"
+gravatar = "bc19a431cf19d6c3a6b609b3f22ce05a?s=80"
 description = "Resume / Portfolio website for Emmanuelle Alejandro Guerrero Santana"
 email = "emmaguerreros@gmail.com"
 github = "//github.com/emmgro"
 msn = "//m.me/emmgro"
 instagram = "//instagram.com/emmgros/"
 extracssfiles          = [ "/css/override.css" ]       # In your `static` directory, add/remove files as necessary.
-faviconfile = "https://s.gravatar.com/avatar/bc19a431cf19d6c3a6b609b3f22ce05a?s=80"
+faviconfile = "img/profile.png"
 selfintro = "Developing Web Developer / Designer"
-gravatar = "bc19a431cf19d6c3a6b609b3f22ce05a?s=80"
+
