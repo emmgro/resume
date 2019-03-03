@@ -1,15 +1,15 @@
 #!/bin/bash
 
-echo -e "\033[0;32mRemoving public dir contents...\033[0m"
+# echo -e "\033[0;32mRemoving public dir contents...\033[0m"
 # Go To Public folder
-cd public
+# cd public
 # Delete directory contents
-rm -r *
+# rm -r *
 
 echo -e "\033[0;32mDeploying updates to GitHub...\033[0m"
 
 # Climb up to project root AND build the project.
-../ && hugo -t cocoa # if using a theme, replace with `hugo -t <YOURTHEME>`
+hugo -t cocoa # if using a theme, replace with `hugo -t <YOURTHEME>`
 
 # Go To Public folder
 cd public
