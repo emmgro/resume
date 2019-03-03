@@ -42,5 +42,5 @@ msn = "//m.me/emmgro"
 instagram = "//instagram.com/emmgros/"
 extracssfiles          = [ "/css/override.css" ]       # In your `static` directory, add/remove files as necessary.
 faviconfile = "img/profile.png"
-selfintro = "Frontend Developer"
+selfintro = "Front-End UI Developer"
 
