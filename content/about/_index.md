@@ -5,7 +5,7 @@ title = "About"
 
 +++
 
-Software engineering student @[Unison](http://www.uson.mx/) (2011 - 2016), front-end web developer, accomplished my internship program developing an online course platform for: [Soluciones Verdes](https://www.solucionesverdes.com.mx/ "Site currently down").
+Software engineering grad from @[Unison](http://www.uson.mx/) (2011 - 2016), currently freelancing as a front-end web developer, accomplished my internship program developing an online course platform for: [Soluciones Verdes](https://www.solucionesverdes.com.mx/ "Site currently down").
 
 > Keep it simple.
 
