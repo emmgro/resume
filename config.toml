@@ -35,9 +35,15 @@ url                    = "/portfolio/"
 
 [[menu.main]]
 name                   = "Photography"
-weight                 = -120
+weight                 = -110
 identifier             = "photography"
 url                    = "/photo/"
+
+[[menu.main]]
+name                   = "Contact"
+weight                 = -80
+identifier             = "contact"
+url                    = "/contact/"
 
 [params]
 author = "Emmanuelle Guerrero"
