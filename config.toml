@@ -5,6 +5,7 @@ title = "Emmanuelle Guerrero - Web Developer, Photographer"
 layoutdir           = "layouts"
 publishdir          = "public"
 theme = "cocoa"
+googleAnalytics     = "UA-135936868-1"
 #disqusshortname = "emmgr"
 
 #[[menu.main]]
