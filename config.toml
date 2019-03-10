@@ -8,6 +8,9 @@ theme = "cocoa"
 googleAnalytics     = "UA-135936868-1"
 #disqusshortname = "emmgr"
 
+[blackfriday]
+  hrefTargetBlank = true
+
 #[[menu.main]]
 #name                   = "Blog"
 #weight                 = -120
