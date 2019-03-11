@@ -1,5 +1,5 @@
 [submodule "public"]
 	path = public
-	url = git@github.com:emmgro/emmgro.github.io.git
+	url = git://github.com/emmgro/emmgro.github.io.git
 	branch = master
 	ignore = dirty
