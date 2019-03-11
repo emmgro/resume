@@ -4,4 +4,4 @@ draft = false
 title = "Photography"
 
 +++
-{{< gallery dir="/img/photofolio/" >}} {{< load-photoswipe >}}
+{{< gallery dir="/img/photofolio/" />}} {{< load-photoswipe >}}
