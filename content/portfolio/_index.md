@@ -34,7 +34,7 @@ title = "My Portfolio"
 -freeCodeCamp.org [Tasty Licks](https://angry-stallman.netlify.com) (Hugo Framework [JAMstack](https://jamstack.org/), deployed@[Netlify](https://www.netlify.com/))
 
 ## Certificates
-{{< gallery dir="/img/scans/" />}} {{< load-photoswipe >}}
-
+{{< gallery dir="/img/scans/" >}} {{< load-photoswipe >}}
 
 ## UX/UI, Designs & Wireframes
+keno
