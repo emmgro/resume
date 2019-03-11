@@ -1,10 +1,12 @@
-baseURL = "/"
+baseURL = ""
 languageCode = "en-us"
 author = "Emmanuelle Guerrero"
 title = "Emmanuelle Guerrero - Web Developer, Photographer"
 layoutdir           = "layouts"
 publishdir          = "public"
-theme = "cocoa"
+relativeURLs        = true
+canonifyURLs        = true
+theme               = "cocoa"
 googleAnalytics     = "UA-135936868-1"
 #disqusshortname = "emmgr"
 
