@@ -37,4 +37,3 @@ title = "My Portfolio"
 {{< gallery dir="/img/scans/" />}} {{< load-photoswipe >}}
 
 ## UX/UI, Designs & Wireframes
-keno
