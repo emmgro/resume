@@ -1,5 +1,5 @@
 \.DS_Store
-
+\.directory
 # Exclude public dir contents for git submodule purposes
 public/**
 # But keeping the public dir
