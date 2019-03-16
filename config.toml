@@ -12,6 +12,7 @@ googleAnalytics     = "UA-135936868-1"
 
 [blackfriday]
   hrefTargetBlank = true
+  NofollowLinks   = true
 
 #[[menu.main]]
 #name                   = "Blog"
