@@ -37,4 +37,4 @@ title = "My Portfolio"
 {{< gallery dir="/img/scans/" />}} {{< load-photoswipe >}}
 
 ## UX/UI, Designs & Wireframes
-keno
+> Some of the tools, frameworks & design patterns I like to follow in order to deliver quality, user centered products.
