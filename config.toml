@@ -1,7 +1,7 @@
-baseURL = ""
+baseURL = "/"
 languageCode = "en-us"
 author = "Emmanuelle Guerrero"
-title = "Emmanuelle Guerrero - Web Developer, Photographer"
+title = "Emmanuelle Guerrero | Web Developer, Photographer"
 layoutdir           = "layouts"
 publishdir          = "public"
 relativeURLs        = true
@@ -12,6 +12,8 @@ googleAnalytics     = "UA-135936868-1"
 
 [blackfriday]
   hrefTargetBlank = true
+  NofollowLinks   = true
+  NoreferrerLinks = true
 
 #[[menu.main]]
 #name                   = "Blog"
@@ -58,6 +60,7 @@ description = "Resume / Portfolio website for Emmanuelle Alejandro Guerrero Sant
 email = "emmaguerreros@gmail.com"
 github = "//github.com/emmgro"
 msn = "//m.me/emmgro"
+twitter = "//twitter.com/el_alegrosa"
 instagram = "//instagram.com/emmgros/"
 extracssfiles          = [ "/css/override.css" ]       # In your `static` directory, add/remove files as necessary.
 faviconfile = "img/profile.png"

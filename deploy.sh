@@ -9,7 +9,7 @@
 echo -e "\033[0;32mDeploying updates to GitHub...\033[0m"
 
 # Climb up to project root AND build the project.
-hugo -t cocoa # if using a theme, replace with `hugo -t <YOURTHEME>`
+hugo -b="http://emmgro.github.io" # if using a theme, replace with `hugo -t <YOURTHEME>`
 
 # Go To Public folder
 cd public
